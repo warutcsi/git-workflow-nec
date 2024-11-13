@@ -1,1 +1,2 @@
 Test demo text file from feature-b
+Update something in release-1.0.0
